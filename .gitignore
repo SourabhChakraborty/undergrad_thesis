@@ -1,5 +1,6 @@
 stored_variables/*
 .ipynb_checkpoints/*
+*.json
 # Text files might be useful in the future, so manually do text files for now
 politics_train.txt
 sfp_politics_after.txt
