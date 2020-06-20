@@ -1,5 +1,6 @@
+.DS_Store
 stored_variables/*
-.ipynb_checkpoints/*
+# .ipynb_checkpoints/*
 lda_models/*
 *.json
 # Text files might be useful in the future, so manually do text files for now
